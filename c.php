@@ -12,5 +12,5 @@
 	include "tellus.so/index.html";*/
 
 	header("Set-Cookie: onecomautodebug=true");
-	header("Location: http://www.tellus.so");
+	header("Location: http://www.tellus.sol");
 ?>
